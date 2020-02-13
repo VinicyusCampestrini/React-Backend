@@ -1,3 +1,5 @@
+// Renomear para .env
+
 module.exports = {
     authSecret: ''
 }
